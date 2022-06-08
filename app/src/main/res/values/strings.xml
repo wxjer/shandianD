@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">shandianbaoDemo</string>
+    <string name="sync_account_authority">com.example.shandianbaodemo.sync.content</string>
+    <string name="sync_account_authority2">com.example.shandianbaodemo.sync.provider</string>
+    <string name="sync_account_name">account_name_com.example.shandianbaodemo</string>
+    <string name="sync_account_name2">account_name2_com.example.shandianbaodemo</string>
+    <string name="sync_account_type">com.example.shandianbaodemo.account</string>
+    <string name="sync_account_type2">com.example.shandianbaodemo.sync.account</string>
+</resources>
